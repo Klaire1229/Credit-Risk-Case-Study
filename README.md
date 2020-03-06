@@ -1,1 +1,1 @@
-# Credit-Risk-Case-Study
+Implemented data mining methods to provide a reasonable model to predict the probability of default, a better decision-making mechanism on credit issuing, given the credit information from more than 30000 clients with multiple attributes including marital status, education, age, and payment history, etc.
